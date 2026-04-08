@@ -105,7 +105,9 @@ There is no built-in sync layer. Point `DOGEAR_DB` at a folder your tools alread
 
 ## Contributing
 
-Pull requests and issues are welcome. Please run `go test ./...` before sending a patch.
+Pull requests and issues are very welcome! :-)
+
+Please run `go test ./...` before sending a patch.
 
 ## License
 

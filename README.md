@@ -110,4 +110,3 @@ Pull requests and issues are welcome. Please run `go test ./...` before sending 
 ## License
 
 MIT
-# dogear

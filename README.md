@@ -1,6 +1,6 @@
 # dogear
 
-A small terminal companion for remembering where you stopped reading: a chapter, a page, a section in lecture notes, a Kindle location, anything that counts as a place. No streaks, no badges, no feed. Just a quiet record you can trust.
+A CLI-based tool for you to remember where you stopped reading! 
 
 ## What It Does
 
